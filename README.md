@@ -128,7 +128,7 @@ An interactive dashboard created in Power BI to summarize serial trends, genres,
 
 ## 🖼️ Dashboard Preview
 
-![TV Serial Dashboard](https://github.com/niravtrivedi23/Indian-tv-serials-analytics/blob/main/TV%20Serial%20Analysis%20Dashboard.png)
+![TV Serial Dashboard](https://github.com/niravtrivedi23/Indian-tv-serials-analytics/blob/main/TV%20Serial%20Dashboard.png)
 
 ---
 
